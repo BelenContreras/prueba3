@@ -1,0 +1,2 @@
+A parte de esto deberá contener un segundo archivo con extensión .txt en el que deben explicar con sus propias palabras la diferencia entre lenguajes de programación imperativos y lenguajes de programación declarativos, así como incluir un ejemplo pequeño del uso de estos paradigmas.
+bla bla
